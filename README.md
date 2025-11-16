@@ -5,7 +5,7 @@ As seen on
 [TikTok](https://www.tiktok.com/@jensderouter/video/7564812838670290198)
 /
 [Instagram](https://www.instagram.com/p/DQMoJPmjni2/)
-.
+:
 My Discord bot that automatically mutes you
 when you are too loud in a Discord voice channel.
 
